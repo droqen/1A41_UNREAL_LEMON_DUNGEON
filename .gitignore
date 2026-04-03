@@ -3,6 +3,8 @@
 
 # Visual Studio 2015 user specific files
 .vs/
+# vscode files too
+.vscode/
 
 # Compiled Object files
 *.slo
